@@ -9,7 +9,7 @@ public class Soru_5 {
         }else{
             z=1;
         }
-        System.out.println(z);
+        System.out.println(z); //3
     }
 
 
